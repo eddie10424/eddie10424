@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=42F9F9&height=300&section=header&text=Seungmin,%20Song&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Seungmin,%20Song&fontSize=90&fontColor=42F9F9)
 
 - - -   
 
