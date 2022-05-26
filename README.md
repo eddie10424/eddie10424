@@ -12,4 +12,5 @@
   - - -
   2020 - 2021 : Served as SGT in ROK ARMY.  
   (2 GOPB, 38IB, 15ID)
+  - - -
 </div>
